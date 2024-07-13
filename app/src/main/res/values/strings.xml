@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forgot Password?</string>
+    <string name="sign_in">Sign IN</string>
+    <string name="my_account">My Account</string>
+    <string name="make_my_account">Create My Account</string>
+    <string name="email">Email</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="do_not_have_an_acccount">Do not have an account?</string>
+    <string name="title">Title</string>
+    <string name="hi">Hi,</string>
+    <string name="my_notes">My Notes</string>
+    <string name="my_profile">My Profile</string>
+    <string name="update_note">Update Note</string>
+    <string name="add_new_note">Add New Note</string>
+
+    <string-array name="categories">
+        <item>All</item>
+        <item>Important</item>
+        <item>Fitness</item>
+        <item>Work</item>
+        <item>Improvement</item>
+        <item>Others</item>
+    </string-array>
+
+
+</resources>
